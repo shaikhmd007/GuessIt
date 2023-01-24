@@ -202,7 +202,7 @@ span {
     width: 100%;
     text-align: center;
     padding: 1rem;
-    /* background: #d1fad442; */
+border: 0.5px solid #00a6ed;
     box-shadow: inset 2px 5px 19px #ffffff,
         inset -5px -9px 3px #f2ebeb00;
 }
@@ -210,7 +210,7 @@ span {
 .word-typing-section {
     padding: 0.5em;
     margin-top: 1rem;
-    /* border: 3px solid rgb(220, 0, 0); */
+   border: 0.5px solid #00a6ed;
     position: relative;
     background-image: url("https: //images.pexels.com/photos/5908695/pexels-photo-5908695.jpeg?auto=compress&cs=tinysrgb&w=600");
     text-align: center;
