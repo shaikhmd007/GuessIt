@@ -349,10 +349,8 @@ span {
         font-size: small;
 
     }
-
-    #scoreText {
-        border: 3px solid red;
-        height: 55%;
+    #scoreText { 
+       height: 55%;
         width: 100%;
         font-size: small;
     }
